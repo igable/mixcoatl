@@ -5,9 +5,12 @@ Mixcoatl was the father of Quetzalcoatl. His name means "Cloud Serpent". Fitting
 
 Build Status
 ------------
+.. raw:: html
 
-.. image:: https://secure.travis-ci.org/enStratus/mixcoatl.png
-        :target: http://travis-ci.org/enStratus/mixcoatl
+    <a href="http://travis-ci.org/enStratus/mixcoatl">
+    <img src="https://secure.travis-ci.org/enStratus/mixcoatl.png">
+    </a>
+
 
 Word of warning
 ~~~~~~~~~~~~~~~
